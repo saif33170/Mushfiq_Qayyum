@@ -261,10 +261,6 @@ span {
       margin-top: 0;
       margin-bottom: 0;
     }
-
-    .mobile {
-      flex-direction: row;
-    }
   }
   
   
@@ -323,9 +319,5 @@ span {
     .contacts {
       margin-top: 0;
       margin-bottom: 0;
-    }
-
-    .mobile {
-      flex-direction: row;
     }
   }
