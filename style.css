@@ -217,11 +217,11 @@ span {
     }
 
     .text {
-    margin: 20px 0;
+    margin: 16px 0;
     }
 
     .text h1 {
-      font-size: 30px;
+      font-size: 28px;
       text-align: center;
     }
 
@@ -246,7 +246,7 @@ span {
     }
 
     .conts {
-      margin: 12px 0;
+      margin: 8px 0;
       flex-direction: column;
     }
 
@@ -259,6 +259,10 @@ span {
       justify-content: center;
       align-items: center;
       font-size: 14px;
+    }
+
+    .save_btn {
+      margin-top: 14px;
     }
 
     .contacts {
@@ -280,11 +284,11 @@ span {
     }
 
     .text {
-    margin: 20px 0;
+    margin: 16px 0;
     }
 
     .text h1 {
-      font-size: 30px;
+      font-size: 28px;
       text-align: center;
     }
 
@@ -309,7 +313,7 @@ span {
     }
 
     .conts {
-      margin: 12px 0;
+      margin: 8px 0;
       flex-direction: column;
     }
 
@@ -322,6 +326,10 @@ span {
       justify-content: center;
       align-items: center;
       font-size: 14px;
+    }
+
+    .save_btn {
+      margin-top: 14px;
     }
 
     .contacts {
