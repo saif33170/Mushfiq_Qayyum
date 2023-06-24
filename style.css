@@ -269,6 +269,17 @@ span {
       margin-top: 0;
       margin-bottom: 0;
     }
+
+    .mobile {
+      gap: 8px;
+    }
+    .email {
+      gap: 8px;
+    }
+
+    .address {
+      gap: 8px;
+    }
   }
   
   
@@ -335,5 +346,16 @@ span {
     .contacts {
       margin-top: 0;
       margin-bottom: 0;
+    }
+
+    .mobile {
+      gap: 8px;
+    }
+    .email {
+      gap: 8px;
+    }
+
+    .address {
+      gap: 8px;
     }
   }
