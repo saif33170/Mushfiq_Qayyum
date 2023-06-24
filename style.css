@@ -216,6 +216,10 @@ span {
       width: 70%;
     }
 
+    .text {
+    margin: 20px 0;
+    }
+
     .text h1 {
       font-size: 30px;
       text-align: center;
@@ -273,6 +277,10 @@ span {
 
     .container {
       width: 100%;
+    }
+
+    .text {
+    margin: 20px 0;
     }
 
     .text h1 {
