@@ -42,7 +42,7 @@ span {
     color: var(--bg-color);
     position: relative;
     overflow: hidden;
-    background-image: url("imgs/Cover/cover.jpg");
+    background-image: url("imgs/Cover/cover1.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
