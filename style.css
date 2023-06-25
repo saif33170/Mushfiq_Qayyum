@@ -273,13 +273,16 @@ span {
 
     .mobile {
       gap: 8px;
+      width: -webkit-fill-available;
     }
     .email {
       gap: 8px;
+      width: -webkit-fill-available;
     }
 
     .address {
       gap: 8px;
+      width: -webkit-fill-available;
     }
   }
   
@@ -352,12 +355,15 @@ span {
 
     .mobile {
       gap: 8px;
+      width: -webkit-fill-available;
     }
     .email {
       gap: 8px;
+      width: -webkit-fill-available;
     }
 
     .address {
       gap: 8px;
+      width: -webkit-fill-available;
     }
   }
