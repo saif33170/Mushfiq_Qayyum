@@ -178,7 +178,7 @@ span {
     align-items: center;
     gap: 10px;
     background: var(--bg-color);
-    box-shadow: 0 0 1rem var(--e-color);
+    box-shadow: 0 0 0.5rem var(--e-color);
   }
   .email {
     min-height: 60px;
@@ -189,7 +189,7 @@ span {
     align-items: center;
     gap: 10px;
     background: var(--bg-color);
-    box-shadow: 0 0 1rem var(--e-color);
+    box-shadow: 0 0 0.5rem var(--e-color);
   }
 
   .address {
@@ -201,7 +201,7 @@ span {
     align-items: center;
     gap: 10px;
     background: var(--bg-color);
-    box-shadow: 0 0 1rem var(--e-color);
+    box-shadow: 0 0 0.5rem var(--e-color);
   }
   /*Section Styling*/
 
